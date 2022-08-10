@@ -18,6 +18,8 @@ package.
 **Keywords: R, ggplot2, nested data, clustered data, multiple levels,
 shades, tints, gradient**
 
+![ggnested barplot](https://github.com/gmteunisse/ggnested/blob/main/man/figures/README-barplot-1.png?raw=true)<!-- -->
+
 ## [`fantaxtic`](https://github.com/gmteunisse/fantaxtic)
 `fantaxtic` contains a set of functions to identify and visualize the most abundant taxa in phyloseq objects. It allows users to identify top taxa using any metric and any grouping, and plot the (relative) abundances of the top taxa using a nested bar plot visualisation. In the nested bar plot, colours or fills signify a top taxonomic rank (e.g. Phylum), and a gradient of shades and tints signifies levels at a nested taxonomic rank (e.g. Species). It is particularly useful to present an overview of microbiome sequencing, amplicon sequencing or metabarcoding data.
 
